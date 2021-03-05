@@ -1,8 +1,10 @@
+import React from "react";
 
-function App() {
+
+function App(props) {
   return (
     <div >
-      Hello
+       Hello World
     </div>
   );
 }
